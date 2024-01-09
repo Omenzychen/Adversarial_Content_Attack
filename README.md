@@ -1,8 +1,19 @@
-# Adversarial Content Attack
+# [[NeurIPS 2023] Content-based Unrestricted Adversarial Attack](https://openreview.net/pdf?id=gO60SSGOMy)
 
-This repository offers Pytorch code to reproduce results from the paper:
+Zhaoyu Chen, Bo Li, Shuang Wu, Kaixun Jiang, Shouhong Ding, Wenqiang Zhang
 
-Content-based Unrestricted Adversarial Attack
+This repository offers Pytorch code to reproduce results from the paper. Please consider citing our paper if you find it interesting or helpful to your research.
+
+```
+@inproceedings{
+chen2023contentbased,
+title={Content-based Unrestricted Adversarial Attack},
+author={Zhaoyu Chen and Bo Li and Shuang Wu and Kaixun Jiang and Shouhong Ding and Wenqiang Zhang},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=gO60SSGOMy}
+}
+```
 
 
 ## Requirements
